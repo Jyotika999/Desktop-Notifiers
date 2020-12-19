@@ -13,9 +13,11 @@ Plyer is a platform-independent API to use features commonly found on various pl
 
 Make sure to install all the libraries and modules used in the codes to run the programs. :smile:
 
+
+
 Check out my blog on the entire explanation ![here](link)
 
-
+### Show some :heart: by starring :star: this repository
 
 ## Need any help?
 ``` 
