@@ -25,7 +25,7 @@ Make sure to install all the libraries and modules used in the codes to run the 
 
 
 
-Check out my blog on the entire explanation ![here](link)
+Check out my blog on the entire explanation [here](link)
 
 
 
