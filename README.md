@@ -11,11 +11,24 @@ According to the Documentation at PyPI:
 The Python Package Index (PyPI) is a repository of software for the Python programming language.
 Plyer is a platform-independent API to use features commonly found on various platforms, notably mobile ones, in Python.
 
+## Tech stack used
+Python
+
+## Prequisites to be installed for the notifications
+* ``` pip install plyer```
+* ```pip install beautifulsoup4```
+* ```pip install urllib3```
+
+
+
 Make sure to install all the libraries and modules used in the codes to run the programs. :smile:
 
 
 
 Check out my blog on the entire explanation ![here](link)
+
+
+
 
 ### Show some :heart: by starring :star: this repository
 
