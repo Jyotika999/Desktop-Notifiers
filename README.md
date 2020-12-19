@@ -1,5 +1,5 @@
 
-# Desktop Notifications using PLyer
+# Desktop Notifications using 'plyer'
 
 Notifications are some tiny text pop-ups that appear on the desktop 💻 or mobile screen to inform the user about the updates or any other vital pieces of information, allowing the user to focus 💡on essential things and ignore the non-important ones.
 
