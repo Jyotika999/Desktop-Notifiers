@@ -5,7 +5,7 @@ This is an application to remind you of drinking water while you are busy workin
 
 ----------------------------------------------
 
-Check out my blog on the entire explanation [here](link)
+Check out my blog on the entire explanation [here](https://medium.com/developer-student-clubs-iiit-allahabad/desktop-notifications-using-plyer-82a02a636260)
 --------------------------------------------
 
 ## Need any help?
